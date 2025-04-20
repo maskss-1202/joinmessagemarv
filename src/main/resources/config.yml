@@ -1,0 +1,17 @@
+messages:
+  join:
+    ja: "&7[&a+&7] &7プレイヤー &r%player% &7がサーバーに参加しました！"
+    en: "&7[&a+&7] &7Player &r%player% &7has joined the server!"
+    zh: "&7[&a+&7] &7玩家 &r%player% &7加入了服务器！"
+    zh_tw: "&7[&a+&7] &7玩家 &r%player% &7已加入伺服器！"
+    de: "&7[&a+&7] &7Spieler &r%player% &7hat den Server betreten!"
+    fr: "&7[&a+&7] &7Joueur &r%player% &7a rejoint le serveur !"
+    ko: "&7[&a+&7] &7플레이어 &r%player% &7님이 서버에 접속했습니다!"
+  quit:
+    ja: "&7[&c-&7] &7プレイヤー &r%player% &7がサーバーを退出しました！"
+    en: "&7[&c-&7] &7Player &r%player% &7has left the server!"
+    zh: "&7[&c-&7] &7玩家 &r%player% &7离开了服务器！"
+    zh_tw: "&7[&c-&7] &7玩家 &r%player% &7已離開伺服器！"
+    de: "&7[&c-&7] &7Spieler &r%player% &7hat den Server verlassen!"
+    fr: "&7[&c-&7] &7Joueur &r%player% &7a quitté le serveur !"
+    ko: "&7[&c-&7] &7플레이어 &r%player% &7님이 서버를 떠났습니다!"
