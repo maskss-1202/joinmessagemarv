@@ -24,3 +24,9 @@ It fully supports **Folia**, multiple languages, and configurable message format
 - 🔁 リロード機能付き
 
 ---
+
+> ⚠️ This plugin is provided **as-is**.  
+> No support or bug fixes are guaranteed.
+
+> ⚠️ 本プラグインは「現状のまま」提供されます。  
+> 不具合への対応やサポートは**一切保証されません**。
